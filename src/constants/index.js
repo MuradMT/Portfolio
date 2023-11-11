@@ -211,8 +211,8 @@ const projects = [
       "The comprehensive course includes as well as advanced topics in c#.This course have been taught by me when i am a volunteer teacher.",
     tags: [
       {
-        name: "c#",
-        color: "blue-text-gradient",
+        name: "csharp",
+        color: "pink-text-gradient"
       },
     ],
     image: github,
