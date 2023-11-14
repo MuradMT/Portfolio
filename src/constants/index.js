@@ -216,7 +216,7 @@ const projects = [
       },
     ],
     image: github,
-    source_code_link: "https://github.com/MuradMT/Riode_ProjectMVC",
+    source_code_link: "https://github.com/MuradMT/CSharpCourse",
   },
 ];
 
