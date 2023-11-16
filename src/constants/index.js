@@ -132,6 +132,24 @@ const experiences = [
 
 const projects = [
   {
+    name: "Tailwind Master",
+    description:
+      "Includes all fundamentals of tailwind,is published by myself.",
+    tags: [
+      {
+        name: "tailwind",
+        color: "blue-text-gradient",
+        
+      },
+      {
+        name: "nextjs",
+        color: "pink-text-gradient"
+      },
+    ],
+    image: github,
+    source_code_link: "https://github.com/MuradMT/TailwindMaster",
+  },
+  {
     name: "Auction App",
     description:
       "Fully functional auction application has been written with microservice architecture.",
