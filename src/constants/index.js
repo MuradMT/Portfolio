@@ -134,7 +134,7 @@ const projects = [
   {
     name: "Tailwind Master",
     description:
-      "Includes all fundamentals of tailwind,is published by myself.",
+      "Includes all fundamentals of tailwind,are published by myself.",
     tags: [
       {
         name: "tailwind",
