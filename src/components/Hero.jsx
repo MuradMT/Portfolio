@@ -20,7 +20,7 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I develop both front and back side of web applications. <br className='sm:block hidden' />
-            Generally backend is my first choice and i am also keen on competitive programming.
+            i am also keen on competitive programming.
           </p>
         </div>
       </div>
