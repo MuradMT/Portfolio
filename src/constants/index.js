@@ -132,6 +132,38 @@ const experiences = [
 
 const projects = [
   {
+    name: "Design Patterns",
+    description:
+      "Design Patterns are written with python.",
+    tags: [
+      {
+        name: "python",
+        color: "green-text-gradient",
+        
+      }
+    ],
+    image: github,
+    source_code_link: "https://github.com/MuradMT/Nike_Clone",
+  },
+  {
+    name: "Nike Clone",
+    description:
+      "The half-clone of nike application.",
+    tags: [
+      {
+        name: "tailwind",
+        color: "blue-text-gradient",
+        
+      },
+      {
+        name: "reactjs",
+        color: "pink-text-gradient"
+      },
+    ],
+    image: github,
+    source_code_link: "https://github.com/MuradMT/Nike_Clone",
+  },
+  {
     name: "Tailwind Master",
     description:
       "Includes all fundamentals of tailwind,are published by myself.",
