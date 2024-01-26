@@ -7,15 +7,14 @@ import {
   typescript,
   html,
   css,
-  reactjs,
   csharp,
   tailwind,
   netcore,
-  next,
   git,
   python,
   sql,
-  dia,
+  angular,
+  blazor,
   elfo_logo,
   github
 } from "../assets";
@@ -88,12 +87,12 @@ const technologies = [
     icon: typescript,
   },
   {
-    name: "React JS",
-    icon: reactjs,
+    name: "Angular",
+    icon: angular,
   },
   {
-    name: "Next JS",
-    icon: next,
+    name: "Blazor",
+    icon: blazor,
   },
   {
     name: "Tailwind CSS",
@@ -106,16 +105,6 @@ const technologies = [
 ];
 
 const experiences = [
-  {
-    title: ".Net Developer",
-    company_name: "Azerbaijan Presidental Academy",
-    icon: dia,
-    iconBg: "#383E56",
-    date: "March 2022 - May 2022",
-    points: [
-      "Developing House Rental management system with C#.",
-    ],
-  },
   {
     title: "Full stack Developer",
     company_name: "Elfo Srl",
@@ -141,24 +130,6 @@ const projects = [
         color: "green-text-gradient",
         
       }
-    ],
-    image: github,
-    source_code_link: "https://github.com/MuradMT/Nike_Clone",
-  },
-  {
-    name: "Nike Clone",
-    description:
-      "The half-clone of nike application.",
-    tags: [
-      {
-        name: "tailwind",
-        color: "blue-text-gradient",
-        
-      },
-      {
-        name: "reactjs",
-        color: "pink-text-gradient"
-      },
     ],
     image: github,
     source_code_link: "https://github.com/MuradMT/Nike_Clone",
@@ -215,45 +186,6 @@ const projects = [
     ],
     image: github,
     source_code_link: "https://github.com/MuradMT/Python-For-Coding-Challenge",
-  },
-  {
-    name: "React Todo App",
-    description:
-      "To do app has been written with react.",
-    tags: [
-      {
-        name: "reactjs",
-        color: "pink-text-gradient"
-      },
-    ],
-    image: github,
-    source_code_link: "https://github.com/MuradMT/TodoReact",
-  },
-  {
-    name: "Blog API",
-    description:
-      "Blog api has been written with .net web api.",
-    tags: [
-      {
-        name: ".net core web api",
-        color: "green-text-gradient",
-      },
-    ],
-    image: github,
-    source_code_link: "https://github.com/MuradMT/Blog",
-  },
-  {
-    name: "Riode MVC",
-    description:
-      "The clone of riode web site has been written with .net web mvc.",
-    tags: [
-      {
-        name: ".net core web mvc",
-        color: "blue-text-gradient",
-      },
-    ],
-    image: github,
-    source_code_link: "https://github.com/MuradMT/Riode_ProjectMVC",
   },
   {
     name: "C# Course",

@@ -14,11 +14,12 @@ import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 
-import reactjs from "./tech/reactjs.png";
+import angular from "./tech/angular.png";
+import blazor from "./tech/blazor.png";
 
 import csharp from "./tech/csharp.png";
 import netcore from "./tech/netcore.png";
-import next from "./tech/next.png";
+
 import python from "./tech/python.png";
 import sql from "./tech/sql.png";
 
@@ -34,6 +35,8 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
+  angular,
+  blazor,
   close,
   github,
   menu,
@@ -46,11 +49,9 @@ export {
   typescript,
   html,
   css,
-  reactjs,
   csharp,
   tailwind,
   netcore,
-  next,
   git,
   python,
   sql,
